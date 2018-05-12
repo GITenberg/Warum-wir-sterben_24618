@@ -1,0 +1,33 @@
+_repo: Warum-wir-sterben_24618
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lipschütz, Alejandro
+    alias: Lipschütz, Alexander
+    birthdate: 1883
+    deathdate: 1980
+    gutenberg_agent_id: '26619'
+    url: http://www.gutenberg.org/2009/agents/26619
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- Physiology
+gutenberg_issued: '2008-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24618'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death -- Causes'
+- !lcsh 'Essays'
+- !lcsh 'Biology'
+- !lcc 'QH301'
+- !lcc 'QP'
+title: Warum wir sterben
+url: http://www.gutenberg.org/ebooks/24618
