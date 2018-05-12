@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26619'
     url: http://www.gutenberg.org/2009/agents/26619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24618#Warum-wir-sterben
 gutenberg_bookshelf:
 - DE Sachbuch
 - Physiology
